@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "My Apartment",
+    "description": "This app helps people leaving together in a flat to divide cleaning jobs, shopping items and budget.",
+    "slug": "MyApartment",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/condominiumColors.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "agon.exp.myapartment",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "agon.exp.myapartment",
+      "versionCode": 1.0,
+      "icon": "./assets/images/condominiumColors.png"
+    }
+  }
+}
