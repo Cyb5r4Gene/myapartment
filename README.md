@@ -9,12 +9,12 @@ ndryshme, është shpjeguar në kuadër të punimit të diplomës të cilën mun
 ## Ku mund t'a gjeni aplikacionin?
 Hapat:
 1. Shkarkoni aplikacionin Expo Client ne Playstore https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en ose ne AppStore https://itunes.apple.com/us/app/expo-client/id982107779?mt=8
-2. Ne iOS hapni kameren e iPhone dhe skenonin QR koding ne linkun https://expo.io/@agon/MyApartment, kurse ne Android skenonin kodin ne linkun https://expo.io/@agon/MyApartment duke perdorur aplikacioni Expo.
+2. Ne iOS hapni kameren e iPhone dhe skenonin QR koding ne linkun https://expo.io/@agon/MyApartment, kurse ne Android skenonin kodin ne linkun https://expo.io/@agon/MyApartment duke perdorur kameren ne aplikacionin Expo.
 
 ## Foto nga aplikacioni
 
-<img src="https://user-images.githubusercontent.com/27411538/53511265-4fe43b00-3ac0-11e9-99e0-ce95ad8515f6.jpg" width="300"/><img src="https://user-images.githubusercontent.com/27411538/53511284-5f638400-3ac0-11e9-86f3-c2cbafb5caad.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511265-4fe43b00-3ac0-11e9-99e0-ce95ad8515f6.jpg" width="250"/><img src="https://user-images.githubusercontent.com/27411538/53511284-5f638400-3ac0-11e9-86f3-c2cbafb5caad.jpg" width="250"/>
 
-<img src="https://user-images.githubusercontent.com/27411538/53511336-83bf6080-3ac0-11e9-874a-ad71978543e8.jpg" width="300"/><img src="https://user-images.githubusercontent.com/27411538/53511385-9f2a6b80-3ac0-11e9-9ece-375167d15414.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511336-83bf6080-3ac0-11e9-874a-ad71978543e8.jpg" width="250"/><img src="https://user-images.githubusercontent.com/27411538/53511385-9f2a6b80-3ac0-11e9-9ece-375167d15414.jpg" width="250"/>
 
-<img src="https://user-images.githubusercontent.com/27411538/53511360-920d7c80-3ac0-11e9-8af7-365d0cebb3f4.jpg" width="300"/><img src="https://user-images.githubusercontent.com/27411538/53511397-a487b600-3ac0-11e9-8ef1-1ad14427aeda.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511360-920d7c80-3ac0-11e9-8af7-365d0cebb3f4.jpg" width="250"/><img src="https://user-images.githubusercontent.com/27411538/53511397-a487b600-3ac0-11e9-8ef1-1ad14427aeda.jpg" width="250"/>
