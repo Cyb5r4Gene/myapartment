@@ -13,11 +13,11 @@ Hapat:
 
 ## Foto nga aplikacioni
 
-![1](https://user-images.githubusercontent.com/27411538/53511265-4fe43b00-3ac0-11e9-99e0-ce95ad8515f6.jpg =100x)
-![screenshot_2019-02-17-18-31-14-photoshop](https://user-images.githubusercontent.com/27411538/53511284-5f638400-3ac0-11e9-86f3-c2cbafb5caad.jpg =100x)
+<img src="https://user-images.githubusercontent.com/27411538/53511265-4fe43b00-3ac0-11e9-99e0-ce95ad8515f6.jpg" width="100"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511284-5f638400-3ac0-11e9-86f3-c2cbafb5caad.jpg" width="100"/>
 
-![3](https://user-images.githubusercontent.com/27411538/53511336-83bf6080-3ac0-11e9-874a-ad71978543e8.jpg =100x)
-![screenshot_2019-02-17-18-32-17-photoshop](https://user-images.githubusercontent.com/27411538/53511385-9f2a6b80-3ac0-11e9-9ece-375167d15414.jpg =100x)
+<img src="https://user-images.githubusercontent.com/27411538/53511336-83bf6080-3ac0-11e9-874a-ad71978543e8.jpg" width="100"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511385-9f2a6b80-3ac0-11e9-9ece-375167d15414.jpg" width="100"/>
 
-![8](https://user-images.githubusercontent.com/27411538/53511360-920d7c80-3ac0-11e9-8af7-365d0cebb3f4.jpg =100x)
-![screenshot_2019-02-17-18-32-51-photoshop](https://user-images.githubusercontent.com/27411538/53511397-a487b600-3ac0-11e9-8ef1-1ad14427aeda.jpg =100x)
+<img src="https://user-images.githubusercontent.com/27411538/53511360-920d7c80-3ac0-11e9-8af7-365d0cebb3f4.jpg" width="100"/>
+<img src="https://user-images.githubusercontent.com/27411538/53511397-a487b600-3ac0-11e9-8ef1-1ad14427aeda.jpg" width="100"/>
