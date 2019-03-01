@@ -4,7 +4,7 @@
 
 ## Pershkrimi
 Në këtë punim të diplomës është punuar një aplikacion për paisjet mobile, i cili trajton problemin që hasim nëse jemi duke jetuar në një apartament së bashku me disa persona të tjerë, kryesisht për qëllime të kostos së jetesës. Ndarja e punëve të pastrimit, blerja e artikujve të përbashkët dhe llogaritja e shumës për kthimin e parave tek personi që ka blerë produktin, janë disa nga problemet që mund t’i hasim gjatë praktikimit të kësaj forme të jetesës. Qëllimi i aplikacionit është gjetja e zgjidhjeve për problemet e cekura. Mënyra se si mund të ndërtohet një aplikacion nga një gjuhë e vetme programuese, dhe ky aplikacion të përkrahet nga dy sistemet operative të
-ndryshme, është shpjeguar në kuadër të punimit të diplomës të cilën mund t'a gjeni në linkun https://drive.google.com/open?id=16_M2eAjANEuEGj4LzfnjRQJc-yjESoJF
+ndryshme, është shpjeguar në kuadër të punimit të diplomës të cilën mund t'a gjeni në linkun https://drive.google.com/open?id=1dtAWfIVwcx4XZmYjdPM1PW1EbeVg-RWX
 
 ## Ku mund t'a gjeni aplikacionin?
 Hapat:
